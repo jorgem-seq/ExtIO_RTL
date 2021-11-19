@@ -1,3 +1,5 @@
+> This repository is archived. For updates see [**hayguen/ExtIO_RTL**](https://github.com/hayguen/ExtIO_RTL)
+
 ## ExtIO_RTL
 
 ExtIO wrapper for librtlsdr.
